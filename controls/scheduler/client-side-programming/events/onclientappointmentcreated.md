@@ -14,7 +14,7 @@ position: 21
 
 ## 
 
-If specified, the **OnClientAppointmentCreated** client-side event handler is called when anappointment is received and has been rendered. In the case of**server-side binding**, the event will not be raised. When client-side binding is used,the event will be raised afterthe appointments are retrieved from the data service.The event will be raised for each appointment that has been retrieved from the web service.
+If specified, the **OnClientAppointmentCreated** client-side event handler is called when an appointment is received and has been rendered. In the case of**server-side binding**, the event will not be raised. When client-side binding is used,the event will be raised afterthe appointments are retrieved from the data service.The event will be raised for each appointment that has been retrieved from the web service.
 
 Two parameters are passed to the handler:
 
